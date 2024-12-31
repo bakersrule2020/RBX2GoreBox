@@ -1,0 +1,1 @@
+This holds all of the colored textures for RBX2GoreBox, since GoreBox doesn't support individual colors. This allows us to manually upload the colors and apply them as textures in-game.
